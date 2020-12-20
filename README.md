@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Debarghya Datta :bowtie:
-```           _,..._,m,
+```  
+              _,..._,m,
             ,/'      '"";
            /             ".
          ,'mmmMMMMmm.      \
